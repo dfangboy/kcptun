@@ -17,7 +17,7 @@ import (
 
 	"github.com/urfave/cli"
 	kcp "github.com/xtaci/kcp-go"
-	"github.com/xtaci/kcptun/generic"
+	"github.com/dfangboy/kcptun/generic"
 	"github.com/xtaci/smux"
 	"github.com/armon/go-socks5"
 )
